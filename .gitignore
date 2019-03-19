@@ -3,3 +3,4 @@ tmp/todo.txt
 tmp/*
 *.txt
 >>>>>>>> stashed changes
+*.xml
